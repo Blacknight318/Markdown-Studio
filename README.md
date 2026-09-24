@@ -32,4 +32,4 @@ Browser-local draft encryption protects against casual inspection of browser sto
 
 ## License
 
-No license has been selected yet. The repository is currently `UNLICENSED`; do not assume permission to reuse or redistribute it.
+Markdown Studio is released under the [MIT License](LICENSE).

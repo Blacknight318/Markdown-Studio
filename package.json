@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "private": true,
   "description": "Self-contained offline Markdown Studio with embedded GitHub Flavored Markdown WebAssembly renderer.",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "dependencies": {
     "gfm-wasm": "1.0.1"
   }
